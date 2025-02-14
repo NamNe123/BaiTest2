@@ -1,0 +1,7 @@
+C:\Users\namku\source\repos\BaiTest\BaiTest\obj\Debug\BaiTest.csproj.AssemblyReference.cache
+C:\Users\namku\source\repos\BaiTest\BaiTest\obj\Debug\BaiTest.csproj.CoreCompileInputs.cache
+C:\Users\namku\source\repos\BaiTest\BaiTest\bin\Debug\BaiTest.exe.config
+C:\Users\namku\source\repos\BaiTest\BaiTest\bin\Debug\BaiTest.exe
+C:\Users\namku\source\repos\BaiTest\BaiTest\bin\Debug\BaiTest.pdb
+C:\Users\namku\source\repos\BaiTest\BaiTest\obj\Debug\BaiTest.exe
+C:\Users\namku\source\repos\BaiTest\BaiTest\obj\Debug\BaiTest.pdb
